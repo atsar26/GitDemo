@@ -54,7 +54,11 @@ public class Base {
 		
 		driver.get(URL);
 
+		System.out.println("Changed in code");
+
 		return driver;
+	
+	
 	}
 	
 	
