@@ -25,10 +25,12 @@ public class HomePageLogin {
 	
 	
 	 public WebElement  userId() {
+		 System.out.println("UserID....");
 		 return userId;
 	 }
 
 	 public WebElement  password() {
+		 System.out.println("Password....");
 		 return password;
 	 }
 	 
