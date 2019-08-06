@@ -31,7 +31,7 @@ public class HomePageLogin {
 	 }
 
 	 public WebElement  password() {
-		 
+		 System.out.println("GitStuff");
 		 System.out.println("Password....!!!"+password);
 		 return password;
 	 }
