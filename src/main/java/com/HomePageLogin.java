@@ -25,22 +25,16 @@ public class HomePageLogin {
 	
 	
 	 public WebElement  userId() {
-<<<<<<< HEAD
 		 System.out.println("UserID....get!!!");
-=======
 		 
 		 System.out.println("UserID....!!!"+userId);
->>>>>>> a4c32bd474facd4ff95581f23b7a823ab5e37457
 		 return userId;
 	 }
 
 	 public WebElement  password() {
-<<<<<<< HEAD
 		 System.out.println("Password..get!!!");
-=======
 		 System.out.println("GitStuff");
 		 System.out.println("Password....!!!"+password);
->>>>>>> a4c32bd474facd4ff95581f23b7a823ab5e37457
 		 return password;
 	 }
 	 
