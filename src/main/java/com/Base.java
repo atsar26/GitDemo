@@ -54,7 +54,7 @@ public class Base {
 		
 		driver.get(URL);
 
-		System.out.println("Changed in code by GitStuffs....");
+		
 
 		return driver;
 	
